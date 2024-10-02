@@ -6,7 +6,7 @@ PyFlame-A framework and a set of tools for training deep neural networks (Pytorc
 
 
 <p align="center">
-  <img src="./assets/luann_github.png" alt="luann logo"></a>
+  <img src="./assets/pyflame_gihtub.png" alt="luann logo"></a>
 </p>
 
 <div align="center">
