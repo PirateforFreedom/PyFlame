@@ -1,4 +1,4 @@
-# Luann PyFlame
+# PyFlame
 
 
 
@@ -11,7 +11,7 @@
 
 <div align="center">
 
- <strong>Luann PyFlameA configuration-driven trainer for generative models.</strong>
+ <strong>PyFlame,a configuration-driven trainer for generative models.</strong>
 </div>
 
 
