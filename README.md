@@ -11,7 +11,7 @@
 
 <div align="center">
 
- <strong>PyFlame,a configuration-driven trainer for generative models.</strong>
+ <strong>PyFlame,a configuration-driven trainer for generative models.code coming......</strong>
 </div>
 
 
